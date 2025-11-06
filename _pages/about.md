@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. student in the **Cryptographic Algorithms Lab** at **Korea University**. My primary research interest is the **cryptanalysis of block ciphers**.
+I am a Ph.D. student in the **Cryptographic Algorithm Lab** at **Korea University**. My primary research interest is the **cryptanalysis of block ciphers**.
 
 
 # 🔥 News
