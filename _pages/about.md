@@ -27,7 +27,7 @@ I am a Ph.D. student in the **Cryptographic Algorithm Lab** at **Korea Universit
 - *2025.04*: &nbsp;🎉 Our paper, "Best interleave size of GIFT-128 on 64-bit ARM processor," has been published in *Journal of Cryptographic Engineering*.
 
 # 📝 Publications 
-- **Key-Recovery Attack on 5-Round AES with Multiple-of-8 Property**, **Hanbeom SHIN**, Sunyeop KIM, Byoungjin SEOK, Dongjae LEE, Deukjo HONG, Jaechul SUNG, Seokhie HONG, *IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences*, 2025. (Accepted)
+- **Key-Recovery Attack on 5-Round AES with Multiple-of-8 Property**, **Hanbeom SHIN**, Sunyeop Kim, Byoungjin Seok, Dongjae Lee, Deukjo Hong, Jaechul Sung, Seokhie Hong, *IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences*, 2025. (Accepted)
 - **Quantum Amplitude Hash Function for Quantum Evidence Integrity**, Donggun Lee, **Hanbeom Shin**, Seokhie Hong, *IEEE Access*, 2025.
 - **SAECHAM: Secure and Efficient Lightweight Block Cipher CHAM Variant**, Myoungsu Shin, **Hanbeom Shin**, Insung Kim, Sunyeop Kim, Dongjae Lee, Deukjo Hong, Jaechul Sung, Seokhie Hong, *IEEE Internet of Things Journal*, 2025.
 - **Best intersize of GIFT-128 on 64-bit ARM processor**, Myeonghoon Lee, **Hanbeom Shin**, Myoungsu Shin, Dongjae Lee, Seog Chung Seo, Seokhie Hong, *Journal of Cryptographic Engineering*, 2025.
