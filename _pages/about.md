@@ -36,6 +36,6 @@ I am a Ph.D. student in the **Cryptographic Algorithms Lab** at **Korea Universi
 - **Revisiting The Multiple-of Property for SKINNY: The Exact Computation of the number of right pairs**, **Hanbeom Shin**, Insung Kim, Sunyeop Kim, Seonggyeom Kim, Deukjo Hong, Jaechul Sung, Seokhie Hong, *IEEE Access*, 2024.
 
 # 📖 Educations
-- *2024.03 - Present*, Ph.D. Candidate, Graduate School of Information Security, Korea University.
-- *2022.03 - 2024.02*, M.S. in Engineering, Graduate School of Information Security, Korea University.
+- *2024.03 - Present*, Ph.D. Candidate, School of Cybersecurity, Korea University.
+- *2022.03 - 2024.02*, M.S. in Engineering, School of Cybersecurity, Korea University.
 - *2016.03 - 2022.02*, B.S. in Mathematics & B.A. in Economics, University of Seoul.
