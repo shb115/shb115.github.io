@@ -1,43 +1,23 @@
----
-permalink: /
-title: ""
-excerpt: ""
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
 <span class='anchor' id='about-me'></span>
 
 I am a Ph.D. student in the **Cryptographic Algorithms Lab** at **Korea University**. My primary research interest is the **cryptanalysis of block ciphers**.
 
-
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.09*: &nbsp;🎉 Our paper, "Quantum Amplitude Hash Function for Quantum Evidence Integrity," has been published in *IEEE Access*.
+- *2025.09*: &nbsp;🎉 Our paper, "Key-Recovery Attack on 5-Round AES with Multiple-of-8 Property," has been accepted to *IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences*.
+- *2025.05*: &nbsp;🎉 Our paper, "SAECHAM: Secure and Efficient Lightweight Block Cipher CHAM Variant," has been published in *IEEE Internet of Things Journal*.
+- *2025.04*: &nbsp;🎉 Our paper, "Best interleave size of GIFT-128 on 64-bit ARM processor," has been published in *Journal of Cryptographic Engineering*.
 
 # 📝 Publications 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- **Key-Recovery Attack on 5-Round AES with Multiple-of-8 Property**, **Hanbeom SHIN**, Sunyeop KIM, Byoungjin SEOK, Dongjae LEE, Deukjo HONG, Jaechul SUNG, Seokhie HONG, *IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences*, 2025. (Accepted)
+- **Quantum Amplitude Hash Function for Quantum Evidence Integrity**, Donggun Lee, **Hanbeom Shin**, Seokhie Hong, *IEEE Access*, 2025.
+- **SAECHAM: Secure and Efficient Lightweight Block Cipher CHAM Variant**, Myoungsu Shin, **Hanbeom Shin**, Insung Kim, Sunyeop Kim, Dongjae Lee, Deukjo Hong, Jaechul Sung, Seokhie Hong, *IEEE Internet of Things Journal*, 2025.
+- **Best intersize of GIFT-128 on 64-bit ARM processor**, Myeonghoon Lee, **Hanbeom Shin**, Myoungsu Shin, Dongjae Lee, Seog Chung Seo, Seokhie Hong, *Journal of Cryptographic Engineering*, 2025.
+- **Differential Factors Revisited: A Sufficient Condition for the Practical Use of Differential Factors**, Seonkyu Kim, Myoungsu Shin, **Hanbeom Shin**, Insung Kim, Sunyeop Kim, Donggeun Kwon, Deukjo Hong, Jaechul Sung, Seokhie Hong, *IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences*, 2024.
+- **Redefining Security in Shadow Cipher for IoT Nodes: New Full-Round Practical Distinguisher and the Infeasibility of Key-Recovery Attacks**, Sunyeop Kim, Myoungsu Shin, Seonkyu Kim, **Hanbeom Shin**, Insung Kim, Donggeun Kwon, Dongjae Lee, Seonggyeom Kim, Deukjo Hong, Jaechul Sung, Seokhie Hong, *IEEE Internet of Things Journal*, 2024.
+- **Revisiting The Multiple-of Property for SKINNY: The Exact Computation of the number of right pairs**, **Hanbeom Shin**, Insung Kim, Sunyeop Kim, Seonggyeom Kim, Deukjo Hong, Jaechul Sung, Seokhie Hong, *IEEE Access*, 2024.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2024.03 - Present*, Ph.D. Candidate, Graduate School of Information Security, Korea University.
+- *2022.03 - 2024.02*, M.S. in Engineering, Graduate School of Information Security, Korea University.
+- *2016.03 - 2022.02*, B.S. in Mathematics & B.A. in Economics, University of Seoul.
