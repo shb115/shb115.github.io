@@ -21,12 +21,14 @@ I am a Ph.D. student in the **Cryptographic Algorithm Lab** at **Korea Universit
 
 
 # 🔥 News
+- *2026.01*: &nbsp;🎉 Our paper, "Quantum trust data distribution: a stabilizer-based protocol for continuous and direct secure communication," has been published in *Quantum Information Processing*.
 - *2025.09*: &nbsp;🎉 Our paper, "Quantum Amplitude Hash Function for Quantum Evidence Integrity," has been published in *IEEE Access*.
 - *2025.09*: &nbsp;🎉 Our paper, "Key-Recovery Attack on 5-Round AES with Multiple-of-8 Property," has been accepted to *IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences*.
 - *2025.05*: &nbsp;🎉 Our paper, "SAECHAM: Secure and Efficient Lightweight Block Cipher CHAM Variant," has been published in *IEEE Internet of Things Journal*.
 - *2025.04*: &nbsp;🎉 Our paper, "Best interleave size of GIFT-128 on 64-bit ARM processor," has been published in *Journal of Cryptographic Engineering*.
 
 # 📝 Publications 
+- **Quantum trust data distribution: a stabilizer-based protocol for continuous and direct secure communication**, Donggun Lee, **Hanbeom Shin**, Byoungjin Seok, Seokhie Hong, *Quantum Information Processing*, 2026.
 - **Quantum Amplitude Hash Function for Quantum Evidence Integrity**, Donggun Lee, **Hanbeom Shin**, Seokhie Hong, *IEEE Access*, 2025.
 - **Key-Recovery Attack on 5-Round AES with Multiple-of-8 Property**, **Hanbeom Shin**, Sunyeop Kim, Byoungjin Seok, Dongjae Lee, Deukjo Hong, Jaechul Sung, Seokhie Hong, *IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences*, 2025.
 - **SAECHAM: Secure and Efficient Lightweight Block Cipher CHAM Variant**, Myoungsu Shin, **Hanbeom Shin**, Insung Kim, Sunyeop Kim, Dongjae Lee, Deukjo Hong, Jaechul Sung, Seokhie Hong, *IEEE Internet of Things Journal*, 2025.
