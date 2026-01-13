@@ -41,3 +41,6 @@ I am a Ph.D. student in the **Cryptographic Algorithm Lab** at **Korea Universit
 - *2024.03 - Present*, Ph.D. Student, School of Cybersecurity, Korea University.
 - *2022.03 - 2024.02*, M.S. in Engineering, School of Cybersecurity, Korea University.
 - *2016.03 - 2022.02*, B.S. in Mathematics and B.A. in Economics, University of Seoul.
+
+# 👨‍🏫 Teaching
+- *2025 Spring*: &nbsp;Subject 52 (CYDF217), Korea University.
