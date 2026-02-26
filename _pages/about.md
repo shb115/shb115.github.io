@@ -28,6 +28,15 @@ I am a Ph.D. student in the **Cryptographic Algorithm Lab** at **Korea Universit
 - *2025.04*: &nbsp;🎉 Our paper, "Best interleave size of GIFT-128 on 64-bit ARM processor," has been published in *Journal of Cryptographic Engineering*.
 
 # 📝 Publications
+
+### Preprints
+- "Improving Neural-Inspired Integral Distinguishers via a Linear-Algebraic Approach," Yunjae Hwang, Insung Kim, Sunyeop Kim, Myungkyu Lee, **Hanbeom Shin**, Deukjo Hong, Seokhie Hong, Dongjae Lee, Jaechul Sung, Byoungjin Seok, *Cryptology ePrint Archive*, Report 2026/340, 2026. [[Link]](https://eprint.iacr.org/2026/340)
+- "MIFA: An MILP-based Framework for Improving Differential Fault Attacks," **Hanbeom Shin**, Insung Kim, Sunyeop Kim, Byoungjin Seok, Dongjae Lee, Deukjo Hong, Jaechul Sung, Seokhie Hong, Sangjin Lee, *Cryptology ePrint Archive*, Report 2025/2070, 2025. [[Link]](https://eprint.iacr.org/2025/2070)
+- "Towards Optimal Differential Attacks on FLY and PIPO," Insung Kim, Seonggyeom Kim, Sunyeop Kim, Donggeun Kwon, **Hanbeom Shin**, Dongjae Lee, Deukjo Hong, Jaechul Sung, Seokhie Hong, *Cryptology ePrint Archive*, Report 2025/837, 2025. [[Link]](https://eprint.iacr.org/2025/837)
+- "New Exchanged Boomerang Distinguishers for 5-Round AES," **Hanbeom Shin**, Seonkyu Kim, Byoungjin Seok, Dongjae Lee, Deukjo Hong, Jaechul Sung, Seokhie Hong, *Cryptology ePrint Archive*, Report 2025/248, 2025. [[Link]](https://eprint.iacr.org/2025/248)
+
+<br>
+
 - "Quantum trust data distribution: a stabilizer-based protocol for continuous and direct secure communication," Donggun Lee, **Hanbeom Shin**, Byoungjin Seok, Seokhie Hong, *Quantum Information Processing*, 2026.
 - "Quantum Amplitude Hash Function for Quantum Evidence Integrity," Donggun Lee, **Hanbeom Shin**, Seokhie Hong, *Quantum Information Processing*, 2025.
 - "Key-Recovery Attack on 5-Round AES with Multiple-of-8 Property," **Hanbeom Shin**, Sunyeop Kim, Byoungjin Seok, Dongjae Lee, Deukjo Hong, Jaechul Sung, Seokhie Hong, *IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences*, 2025.
