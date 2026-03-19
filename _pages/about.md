@@ -28,6 +28,11 @@ I am a Ph.D. Candidate in the **Cryptographic Algorithm Lab** at **Korea Univers
 - *2025.05*: &nbsp;🎉 Our paper, "SAECHAM: Secure and Efficient Lightweight Block Cipher CHAM Variant," has been published in *IEEE Internet of Things Journal*.
 - *2025.04*: &nbsp;🎉 Our paper, "Best interleave size of GIFT-128 on 64-bit ARM processor," has been published in *Journal of Cryptographic Engineering*.
 
+# 📖 Education
+- *2024.03 - Present*, Ph.D. Candidate, School of Cybersecurity, Korea University (Advisor: Prof. Sangjin Lee and Prof. Seokhie Hong).
+- *2022.03 - 2024.02*, M.S. in Engineering, School of Cybersecurity, Korea University (Advisor: Prof. Seokhie Hong).
+- *2016.03 - 2022.02*, B.S. in Mathematics and B.A. in Economics, University of Seoul (Advisor: Prof. Jaechul Sung).
+
 # 📝 Publications
 
 ### 📄 Selected Publications
@@ -46,11 +51,6 @@ I am a Ph.D. Candidate in the **Cryptographic Algorithm Lab** at **Korea Univers
 - "Towards Optimal Differential Attacks on FLY and PIPO," Insung Kim, Seonggyeom Kim, Sunyeop Kim, Donggeun Kwon, **Hanbeom Shin**, Dongjae Lee, Deukjo Hong, Jaechul Sung, Seokhie Hong, *Cryptology ePrint Archive*, 2025. [[Link]](https://eprint.iacr.org/2025/837)
 - "New Exchanged Boomerang Distinguishers for 5-Round AES," **Hanbeom Shin**, Seonkyu Kim, Byoungjin Seok, Dongjae Lee, Deukjo Hong, Jaechul Sung, Seokhie Hong, *Cryptology ePrint Archive*, 2025. [[Link]](https://eprint.iacr.org/2025/248)
 
-# 📖 Educations
-- *2024.03 - Present*, Ph.D. Candidate, School of Cybersecurity, Korea University (Advisor: Prof. Sangjin Lee and Prof. Seokhie Hong).
-- *2022.03 - 2024.02*, M.S. in Engineering, School of Cybersecurity, Korea University (Advisor: Prof. Seokhie Hong).
-- *2016.03 - 2022.02*, B.S. in Mathematics and B.A. in Economics, University of Seoul (Advisor: Prof. Jaechul Sung).
-
 # 👨‍🏫 Teaching
-- *2026 Spring*: &nbsp;**Instructor**, Subject 52 (CYDF217), Korea University.
-- *2025 Spring*: &nbsp;**Instructor**, Subject 52 (CYDF217), Korea University.
+- *2026 Spring*: &nbsp;**Lecturer**, Subject 52 (CYDF217), Korea University.
+- *2025 Spring*: &nbsp;**Lecturer**, Subject 52 (CYDF217), Korea University.
