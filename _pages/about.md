@@ -35,8 +35,6 @@ I am a Ph.D. Candidate in the **Cryptographic Algorithm Lab** at **Korea Univers
 - "Towards Optimal Differential Attacks on FLY and PIPO," Insung Kim, Seonggyeom Kim, Sunyeop Kim, Donggeun Kwon, **Hanbeom Shin**, Dongjae Lee, Deukjo Hong, Jaechul Sung, Seokhie Hong, *Cryptology ePrint Archive*, 2025. [[Link]](https://eprint.iacr.org/2025/837)
 - "New Exchanged Boomerang Distinguishers for 5-Round AES," **Hanbeom Shin**, Seonkyu Kim, Byoungjin Seok, Dongjae Lee, Deukjo Hong, Jaechul Sung, Seokhie Hong, *Cryptology ePrint Archive*, 2025. [[Link]](https://eprint.iacr.org/2025/248)
 
-<br>
-
 ### 📄 Selected Publications
 - "MIFA: An MILP-based Framework for Improving Differential Fault Attacks," **Hanbeom Shin**, Insung Kim, Sunyeop Kim, Byoungjin Seok, Deukjo Hong, Jaechul Sung, Seokhie Hong, Sangjin Lee, Dongjae Lee, *IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES) / CHES 2026*, 2026. (To appear) [[Link]](https://eprint.iacr.org/2025/2070)
 - "Quantum trust data distribution: a stabilizer-based protocol for continuous and direct secure communication," Donggun Lee, **Hanbeom Shin**, Byoungjin Seok, Seokhie Hong, *Quantum Information Processing*, 2026. [[Link]](https://link.springer.com/article/10.1007/s11128-025-05043-7)
