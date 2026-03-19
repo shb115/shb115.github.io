@@ -33,9 +33,12 @@ I am a Ph.D. Candidate in the **Cryptographic Algorithm Lab** at **Korea Univers
 - Side-Channel Attacks: Fault attacks on block ciphers.
 
 # 📖 Education
-- *2024.03 - Present*, Ph.D. Candidate, School of Cybersecurity, Korea University, Seoul, Republic of Korea (Advisors: Prof. Sangjin Lee and Prof. Seokhie Hong).
-- *2022.03 - 2024.02*, M.S. in Engineering, School of Cybersecurity, Korea University, Seoul, Republic of Korea (Advisor: Prof. Seokhie Hong).
-- *2016.03 - 2022.02*, B.S. in Mathematics and B.A. in Economics, University of Seoul, Seoul, Republic of Korea (Advisor: Prof. Jaechul Sung).
+- *2024.03 - Present*, Ph.D. Candidate, School of Cybersecurity, Korea University, Seoul, Republic of Korea
+-- Advisors: Prof. Sangjin Lee and Prof. Seokhie Hong
+- *2022.03 - 2024.02*, M.S. in Engineering, School of Cybersecurity, Korea University, Seoul, Republic of Korea
+-- Advisor: Prof. Seokhie Hong
+- *2016.03 - 2022.02*, B.S. in Mathematics and B.A. in Economics, University of Seoul, Seoul, Republic of Korea
+-- Advisor: Prof. Jaechul Sung
 
 # 💼 Experience
 - *2026.03 - Present*, Lecturer, Korea University.
