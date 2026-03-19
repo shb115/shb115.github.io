@@ -41,7 +41,7 @@ I am a Ph.D. Candidate in the **Cryptographic Algorithm Lab** at **Korea Univers
 - "Redefining Security in Shadow Cipher for IoT Nodes: New Full-Round Practical Distinguisher and the Infeasibility of Key-Recovery Attacks," Sunyeop Kim, Myoungsu Shin, Seonkyu Kim, **Hanbeom Shin**, Insung Kim, Donggeun Kwon, Dongjae Lee, Seonggyeom Kim, Deukjo Hong, Jaechul Sung, Seokhie Hong, *IEEE Internet of Things Journal*, 2024. [[Link]](https://ieeexplore.ieee.org/abstract/document/10742626)
 - "Revisiting The Multiple-of Property for SKINNY: The Exact Computation of the number of right pairs," **Hanbeom Shin**, Insung Kim, Sunyeop Kim, Seonggyeom Kim, Deukjo Hong, Jaechul Sung, Seokhie Hong, *IEEE Access*, 2024. [[Link]](https://ieeexplore.ieee.org/abstract/document/10453547)
 
-- ### 📄 Preprints
+### 📄 Preprints
 - "Improving Neural-Inspired Integral Distinguishers via a Linear-Algebraic Approach," Yunjae Hwang, Insung Kim, Sunyeop Kim, Myungkyu Lee, **Hanbeom Shin**, Deukjo Hong, Seokhie Hong, Dongjae Lee, Jaechul Sung, Byoungjin Seok, *Cryptology ePrint Archive*, 2026. [[Link]](https://eprint.iacr.org/2026/340)
 - "Towards Optimal Differential Attacks on FLY and PIPO," Insung Kim, Seonggyeom Kim, Sunyeop Kim, Donggeun Kwon, **Hanbeom Shin**, Dongjae Lee, Deukjo Hong, Jaechul Sung, Seokhie Hong, *Cryptology ePrint Archive*, 2025. [[Link]](https://eprint.iacr.org/2025/837)
 - "New Exchanged Boomerang Distinguishers for 5-Round AES," **Hanbeom Shin**, Seonkyu Kim, Byoungjin Seok, Dongjae Lee, Deukjo Hong, Jaechul Sung, Seokhie Hong, *Cryptology ePrint Archive*, 2025. [[Link]](https://eprint.iacr.org/2025/248)
