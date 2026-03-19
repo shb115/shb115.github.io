@@ -28,10 +28,18 @@ I am a Ph.D. Candidate in the **Cryptographic Algorithm Lab** at **Korea Univers
 - *2025.05*: &nbsp;🎉 Our paper, "SAECHAM: Secure and Efficient Lightweight Block Cipher CHAM Variant," has been published in *IEEE Internet of Things Journal*.
 - *2025.04*: &nbsp;🎉 Our paper, "Best interleave size of GIFT-128 on 64-bit ARM processor," has been published in *Journal of Cryptographic Engineering*.
 
+# 🔍 Research Interests
+- **Block Cipher Cryptanalysis:** Cryptanalysis on AES.
+- **Side-Channel Attacks:** Fault attacks on block ciphers.
+
 # 📖 Education
 - *2024.03 - Present*, Ph.D. Candidate, School of Cybersecurity, Korea University (Advisor: Prof. Sangjin Lee and Prof. Seokhie Hong).
 - *2022.03 - 2024.02*, M.S. in Engineering, School of Cybersecurity, Korea University (Advisor: Prof. Seokhie Hong).
 - *2016.03 - 2022.02*, B.S. in Mathematics and B.A. in Economics, University of Seoul (Advisor: Prof. Jaechul Sung).
+
+# 💼 Experience
+- *2026.03 - Present*, **Lecturer**, Korea University.
+- *2025.03 - 2025.08*, **Lecturer**, Korea University.
 
 # 📝 Publications
 
