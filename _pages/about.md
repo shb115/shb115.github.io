@@ -21,6 +21,7 @@ I am a Ph.D. Candidate in the **Cryptographic Algorithm Lab** at **Korea Univers
 
 
 # 🔥 News
+- *2026.03*: &nbsp;🎉 Our paper, "SDDT: An Operation Skip Attack Framework for Bitslice Ciphers Validated on PIPO," has been accepted to *SAC 2026*.
 - *2026.03*: &nbsp;🎉 Our paper, "MIFA: An MILP-based Framework for Improving Differential Fault Attacks," has been accepted (minor revision) to *CHES 2026*.
 - *2026.01*: &nbsp;🎉 Our paper, "Quantum trust data distribution: a stabilizer-based protocol for continuous and direct secure communication," has been published in *Quantum Information Processing*.
 - *2025.09*: &nbsp;🎉 Our paper, "Quantum Amplitude Hash Function for Quantum Evidence Integrity," has been published in *IEEE Access*.
@@ -47,6 +48,7 @@ I am a Ph.D. Candidate in the **Cryptographic Algorithm Lab** at **Korea Univers
 # 📝 Publications
 
 ### 📄 Selected Publications
+- "SDDT: An Operation Skip Attack Framework for Bitslice Ciphers Validated on PIPO," Dongwoo Kang, **Hanbeom Shin**, DongHyeon Kim, Seokhie Hong, HeeSeok Kim, *Selected Areas in Cryptography (SAC) 2026*, 2026. (To appear)
 - "MIFA: An MILP-based Framework for Improving Differential Fault Attacks," **Hanbeom Shin**, Insung Kim, Sunyeop Kim, Byoungjin Seok, Deukjo Hong, Jaechul Sung, Seokhie Hong, Sangjin Lee, Dongjae Lee, *IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES) / CHES 2026*, 2026. (To appear) [[Link]](https://eprint.iacr.org/2025/2070)
 - "Quantum trust data distribution: a stabilizer-based protocol for continuous and direct secure communication," Donggun Lee, **Hanbeom Shin**, Byoungjin Seok, Seokhie Hong, *Quantum Information Processing*, 2026. [[Link]](https://link.springer.com/article/10.1007/s11128-025-05043-7)
 - "Quantum Amplitude Hash Function for Quantum Evidence Integrity," Donggun Lee, **Hanbeom Shin**, Seokhie Hong, *IEEE Access*, 2025. [[Link]](https://ieeexplore.ieee.org/abstract/document/11170312)
