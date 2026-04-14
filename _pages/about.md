@@ -27,7 +27,6 @@ I am a Ph.D. Candidate in the **Cryptographic Algorithm Lab** at **Korea Univers
 - *2025.09*: &nbsp;🎉 Our paper, "Quantum Amplitude Hash Function for Quantum Evidence Integrity," has been published in *IEEE Access*.
 - *2025.09*: &nbsp;🎉 Our paper, "Key-Recovery Attack on 5-Round AES with Multiple-of-8 Property," has been accepted to *IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences*.
 - *2025.05*: &nbsp;🎉 Our paper, "SAECHAM: Secure and Efficient Lightweight Block Cipher CHAM Variant," has been published in *IEEE Internet of Things Journal*.
-- *2025.04*: &nbsp;🎉 Our paper, "Best interleave size of GIFT-128 on 64-bit ARM processor," has been published in *Journal of Cryptographic Engineering*.
 
 # 🔍 Research Interests
 - Block Cipher Cryptanalysis: Cryptanalysis on AES.
@@ -44,6 +43,7 @@ I am a Ph.D. Candidate in the **Cryptographic Algorithm Lab** at **Korea Univers
 # 💼 Experience
 - *2026.03 - Present*, Lecturer, Korea University.
 - *2025.03 - 2025.08*, Lecturer, Korea University.
+- *2023.07 - 2023.08*, Intern, Samsung SDS.
 
 # 📝 Publications
 
@@ -67,3 +67,6 @@ I am a Ph.D. Candidate in the **Cryptographic Algorithm Lab** at **Korea Univers
 # 👨‍🏫 Teaching
 - *2026 Spring*: &nbsp;**Lecturer**, Subject 52 (CYDF217), Korea University.
 - *2025 Spring*: &nbsp;**Lecturer**, Subject 52 (CYDF217), Korea University.
+- *2024 Fall*: &nbsp;**Teaching Assistant**, Modern Cryptography (SMRT222), Korea University. (Instructor: Prof. Seokhie Hong)
+- *2024 Fall*: &nbsp;**Teaching Assistant**, Smart Security Mathematics (SMRT102), Korea University. (Instructor: Prof. Seokhie Hong)
+- *2024 Fall*: &nbsp;**Teaching Assistant**, Subject 22 (CYDF213), Korea University. (Instructor: Prof. Seokhie Hong)
