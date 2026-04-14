@@ -67,6 +67,6 @@ I am a Ph.D. Candidate in the **Cryptographic Algorithm Lab** at **Korea Univers
 # 👨‍🏫 Teaching
 - *2026 Spring*: &nbsp;**Lecturer**, Subject 52 (CYDF217), Korea University.
 - *2025 Spring*: &nbsp;**Lecturer**, Subject 52 (CYDF217), Korea University.
-- *2024 Fall*: &nbsp;**Teaching Assistant**, Modern Cryptography (SMRT222), Korea University. (Instructor: Prof. Seokhie Hong)
-- *2024 Fall*: &nbsp;**Teaching Assistant**, Smart Security Mathematics (SMRT102), Korea University. (Instructor: Prof. Seokhie Hong)
-- *2024 Fall*: &nbsp;**Teaching Assistant**, Subject 22 (CYDF213), Korea University. (Instructor: Prof. Seokhie Hong)
+- *2024 Fall*: &nbsp;**Teaching Assistant**, Modern Cryptography (SMRT222), Korea University. (Prof. Seokhie Hong)
+- *2024 Fall*: &nbsp;**Teaching Assistant**, Smart Security Mathematics (SMRT102), Korea University. (Prof. Seokhie Hong)
+- *2024 Fall*: &nbsp;**Teaching Assistant**, Subject 22 (CYDF213), Korea University. (Prof. Seokhie Hong)
