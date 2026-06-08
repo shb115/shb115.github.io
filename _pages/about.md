@@ -26,7 +26,6 @@ I am a Ph.D. Candidate in the **Cryptographic Algorithm Lab** at **Korea Univers
 - *2026.01*: &nbsp;🎉 Our paper, "Quantum trust data distribution: a stabilizer-based protocol for continuous and direct secure communication," has been published in *Quantum Information Processing*.
 - *2025.09*: &nbsp;🎉 Our paper, "Quantum Amplitude Hash Function for Quantum Evidence Integrity," has been published in *IEEE Access*.
 - *2025.09*: &nbsp;🎉 Our paper, "Key-Recovery Attack on 5-Round AES with Multiple-of-8 Property," has been accepted to *IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences*.
-- *2025.05*: &nbsp;🎉 Our paper, "SAECHAM: Secure and Efficient Lightweight Block Cipher CHAM Variant," has been published in *IEEE Internet of Things Journal*.
 
 # 🔍 Research Interests
 - Block Cipher Cryptanalysis: Cryptanalysis on AES.
