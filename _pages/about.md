@@ -59,6 +59,7 @@ I am a Ph.D. Candidate in the **Cryptographic Algorithm Lab** at **Korea Univers
 - "Revisiting The Multiple-of Property for SKINNY: The Exact Computation of the number of right pairs," **Hanbeom Shin**, Insung Kim, Sunyeop Kim, Seonggyeom Kim, Deukjo Hong, Jaechul Sung, Seokhie Hong, *IEEE Access*, 2024. [[Link]](https://ieeexplore.ieee.org/abstract/document/10453547)
 
 ### 📄 Preprints
+- "Multiple-of Property for Related-Differential Distinguishers on 5-Round AES," **Hanbeom Shin**, Donggeun Kwon, Byoungjin Seok, Deukjo Hong, Jaechul Sung, Seokhie Hong, Dongjae Lee, *Cryptology ePrint Archive*, 2026. [[Link]](https://eprint.iacr.org/2026/1286)
 - "Local Constraints Behind Fourier Analysis of Neural Distinguishers for SPECK32/64," Yunjae Hwang, Sunyeop Kim, **Hanbeom Shin**, Deukjo Hong, Seokhie Hong, Dongjae Lee, Jaechul Sung, Byoungjin Seok, *Cryptology ePrint Archive*, 2026. [[Link]](https://eprint.iacr.org/2026/1136)
 - "Key-Independent Secret-Key Distinguisher for 7-Round AES based on the Joint Generalized Zero-Difference Property," **Hanbeom Shin**, Sunyeop Kim, Byoungjin Seok, Deukjo Hong, Jaechul Sung, Seokhie Hong, Sangjin Lee, Dongjae Lee, *Cryptology ePrint Archive*, 2026. [[Link]](https://eprint.iacr.org/2026/980)
 - "Efficient Implementation of ARIA on ARMv8 via Cryptographic Extensions," Myoungsu Shin, **Hanbeom Shin**, Insung Kim, Dongjae Lee, *Cryptology ePrint Archive*, 2026. [[Link]](https://eprint.iacr.org/2026/826)
