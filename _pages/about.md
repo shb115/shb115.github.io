@@ -47,31 +47,29 @@ I am a Ph.D. Candidate in the **Cryptographic Algorithm Lab** at **Korea Univers
 
 # 📝 Publications
 
-### 📄 Selected Publications
-
 #### 2026
 
 <ol>
 <li value="11">"<a class="paper-title" href="https://eprint.iacr.org/2026/1368">SDDT: An Operation Skip Attack Framework for Bitslice Ciphers—Validated on PIPO</a>," Dongwoo Kang, <strong>Hanbeom Shin</strong>, DongHyeon Kim, Seokhie Hong, HeeSeok Kim, <em>Selected Areas in Cryptography (SAC) 2026</em>, 2026. (To appear)</li>
-<li value="10">"<a class="paper-title" href="https://tches.iacr.org/index.php/TCHES/article/view/13101">MIFA: An MILP-based Framework for Improving Differential Fault Attacks</a>," <strong>Hanbeom Shin</strong>, Insung Kim, Sunyeop Kim, Byoungjin Seok, Deukjo Hong, Jaechul Sung, Seokhie Hong, Sangjin Lee, Dongjae Lee, <em class="venue">IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES) / CHES 2026</em>, 2026.</li>
-<li value="9">"<a class="paper-title" href="https://link.springer.com/article/10.1007/s11128-025-05043-7">Quantum trust data distribution: a stabilizer-based protocol for continuous and direct secure communication</a>," Donggun Lee, <strong>Hanbeom Shin</strong>, Byoungjin Seok, Seokhie Hong, <em>Quantum Information Processing</em>, 2026.</li>
-<li value="8">"<a class="paper-title" href="https://ieeexplore.ieee.org/abstract/document/11646591">Revisiting Side-Channel Resistance of GCM Implementations on AVR Microcontrollers</a>," Insung Kim, <strong>Hanbeom Shin</strong>, Sunyeop Kim, Seokhie Hong, Geumhwan Cho, HeeSeok Kim, Donggeun Kwon, <em>IEEE Access</em>, 2026.</li>
+<li value="10">"<a class="paper-title" href="https://ieeexplore.ieee.org/abstract/document/11646591">Revisiting Side-Channel Resistance of GCM Implementations on AVR Microcontrollers</a>," Insung Kim, <strong>Hanbeom Shin</strong>, Sunyeop Kim, Seokhie Hong, Geumhwan Cho, HeeSeok Kim, Donggeun Kwon, <em>IEEE Access</em>, 2026.</li>
+<li value="9">"<a class="paper-title" href="https://tches.iacr.org/index.php/TCHES/article/view/13101">MIFA: An MILP-based Framework for Improving Differential Fault Attacks</a>," <strong>Hanbeom Shin</strong>, Insung Kim, Sunyeop Kim, Byoungjin Seok, Deukjo Hong, Jaechul Sung, Seokhie Hong, Sangjin Lee, Dongjae Lee, <em class="venue">IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES) / CHES 2026</em>, 2026.</li>
+<li value="8">"<a class="paper-title" href="https://www.jstage.jst.go.jp/article/transfun/E109.A/3/E109.A_2025EAP1069/_article/-char/en">Key-Recovery Attack on 5-Round AES with Multiple-of-8 Property</a>," <strong>Hanbeom Shin</strong>, Sunyeop Kim, Byoungjin Seok, Dongjae Lee, Deukjo Hong, Jaechul Sung, Seokhie Hong, <em>IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences</em>, 2026.</li>
+<li value="7">"<a class="paper-title" href="https://link.springer.com/article/10.1007/s11128-025-05043-7">Quantum trust data distribution: a stabilizer-based protocol for continuous and direct secure communication</a>," Donggun Lee, <strong>Hanbeom Shin</strong>, Byoungjin Seok, Seokhie Hong, <em>Quantum Information Processing</em>, 2026.</li>
 </ol>
 
 #### 2025
 
 <ol>
-<li value="7">"<a class="paper-title" href="https://ieeexplore.ieee.org/abstract/document/11170312">Quantum Amplitude Hash Function for Quantum Evidence Integrity</a>," Donggun Lee, <strong>Hanbeom Shin</strong>, Seokhie Hong, <em>IEEE Access</em>, 2025.</li>
-<li value="6">"<a class="paper-title" href="https://www.jstage.jst.go.jp/article/transfun/advpub/0/advpub_2025EAP1069/_article/-char/ja/">Key-Recovery Attack on 5-Round AES with Multiple-of-8 Property</a>," <strong>Hanbeom Shin</strong>, Sunyeop Kim, Byoungjin Seok, Dongjae Lee, Deukjo Hong, Jaechul Sung, Seokhie Hong, <em>IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences</em>, 2025.</li>
+<li value="6">"<a class="paper-title" href="https://ieeexplore.ieee.org/abstract/document/11170312">Quantum Amplitude Hash Function for Quantum Evidence Integrity</a>," Donggun Lee, <strong>Hanbeom Shin</strong>, Seokhie Hong, <em>IEEE Access</em>, 2025.</li>
 <li value="5">"<a class="paper-title" href="https://ieeexplore.ieee.org/abstract/document/11003085">SAECHAM: Secure and Efficient Lightweight Block Cipher CHAM Variant</a>," Myoungsu Shin, <strong>Hanbeom Shin</strong>, Insung Kim, Sunyeop Kim, Dongjae Lee, Deukjo Hong, Jaechul Sung, Seokhie Hong, <em>IEEE Internet of Things Journal</em>, 2025.</li>
 <li value="4">"<a class="paper-title" href="https://link.springer.com/article/10.1007/s13389-025-00372-w">Best interleave size of GIFT-128 on 64-bit ARM processor</a>," Myeonghoon Lee, <strong>Hanbeom Shin</strong>, Myoungsu Shin, Dongjae Lee, Seog Chung Seo, Seokhie Hong, <em>Journal of Cryptographic Engineering</em>, 2025.</li>
+<li value="3">"<a class="paper-title" href="https://ieeexplore.ieee.org/abstract/document/10742626">Redefining Security in Shadow Cipher for IoT Nodes: New Full-Round Practical Distinguisher and the Infeasibility of Key-Recovery Attacks</a>," Sunyeop Kim, Myoungsu Shin, Seonkyu Kim, <strong>Hanbeom Shin</strong>, Insung Kim, Donggeun Kwon, Dongjae Lee, Seonggyeom Kim, Deukjo Hong, Jaechul Sung, Seokhie Hong, <em>IEEE Internet of Things Journal</em>, 2025.</li>
 </ol>
 
 #### 2024
 
 <ol>
-<li value="3">"<a class="paper-title" href="https://globals.ieice.org/en_transactions/fundamentals/10.1587/transfun.2024EAP1058/_f">Differential Factors Revisited: A Sufficient Condition for the Practical Use of Differential Factors</a>," Seonkyu Kim, Myoungsu Shin, <strong>Hanbeom Shin</strong>, Insung Kim, Sunyeop Kim, Donggeun Kwon, Deukjo Hong, Jaechul Sung, Seokhie Hong, <em>IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences</em>, 2024.</li>
-<li value="2">"<a class="paper-title" href="https://ieeexplore.ieee.org/abstract/document/10742626">Redefining Security in Shadow Cipher for IoT Nodes: New Full-Round Practical Distinguisher and the Infeasibility of Key-Recovery Attacks</a>," Sunyeop Kim, Myoungsu Shin, Seonkyu Kim, <strong>Hanbeom Shin</strong>, Insung Kim, Donggeun Kwon, Dongjae Lee, Seonggyeom Kim, Deukjo Hong, Jaechul Sung, Seokhie Hong, <em>IEEE Internet of Things Journal</em>, 2024.</li>
+<li value="2">"<a class="paper-title" href="https://globals.ieice.org/en_transactions/fundamentals/10.1587/transfun.2024EAP1058/_f">Differential Factors Revisited: A Sufficient Condition for the Practical Use of Differential Factors</a>," Seonkyu Kim, Myoungsu Shin, <strong>Hanbeom Shin</strong>, Insung Kim, Sunyeop Kim, Donggeun Kwon, Deukjo Hong, Jaechul Sung, Seokhie Hong, <em>IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences</em>, 2024.</li>
 <li value="1">"<a class="paper-title" href="https://ieeexplore.ieee.org/abstract/document/10453547">Revisiting The Multiple-of Property for SKINNY: The Exact Computation of the number of right pairs</a>," <strong>Hanbeom Shin</strong>, Insung Kim, Sunyeop Kim, Seonggyeom Kim, Deukjo Hong, Jaechul Sung, Seokhie Hong, <em>IEEE Access</em>, 2024.</li>
 </ol>
 
