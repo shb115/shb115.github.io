@@ -21,6 +21,8 @@ I am a Ph.D. Candidate in the **Cryptographic Algorithm Lab** at **Korea Univers
 
 
 # 🔥 News
+- *2026.08*: &nbsp;🎉 Our paper, "New Exchanged Boomerang Distinguishers for 5-Round AES," has been accepted to *CANS 2026*.
+- *2026.08*: &nbsp;🎉 Our paper, "Classical-Channel-Free Quantum Trust Data Distribution," has been accepted to *MILCOM 2026*.
 - *2026.08*: &nbsp;🎉 Our paper, "Revisiting Side-Channel Resistance of GCM Implementations on AVR Microcontrollers," has been published in *IEEE Access*.
 - *2026.03*: &nbsp;🎉 Our paper, "SDDT: An Operation Skip Attack Framework for Bitslice Ciphers—Validated on PIPO," has been accepted to *SAC 2026*.
 - *2026.03*: &nbsp;🎉 Our paper, "MIFA: An MILP-based Framework for Improving Differential Fault Attacks," has been accepted to *CHES 2026*.
@@ -50,6 +52,8 @@ I am a Ph.D. Candidate in the **Cryptographic Algorithm Lab** at **Korea Univers
 #### 2026
 
 <ol>
+<li value="13">"<a class="paper-title" href="https://eprint.iacr.org/2025/248">New Exchanged Boomerang Distinguishers for 5-Round AES</a>," <strong>Hanbeom Shin</strong>, Seonkyu Kim, Byoungjin Seok, Dongjae Lee, Deukjo Hong, Jaechul Sung, Seokhie Hong, <em>Cryptology and Network Security (CANS) 2026</em>, 2026. (To appear)</li>
+<li value="12">"Classical-Channel-Free Quantum Trust Data Distribution," Donggun Lee, <strong>Hanbeom Shin</strong>, Seokhie Hong, Jun Heo, <em>IEEE Military Communications Conference (MILCOM) 2026</em>, 2026. (To appear)</li>
 <li value="11">"<a class="paper-title" href="https://eprint.iacr.org/2026/1368">SDDT: An Operation Skip Attack Framework for Bitslice Ciphers—Validated on PIPO</a>," Dongwoo Kang, <strong>Hanbeom Shin</strong>, DongHyeon Kim, Seokhie Hong, HeeSeok Kim, <em>Selected Areas in Cryptography (SAC) 2026</em>, 2026. (To appear)</li>
 <li value="10">"<a class="paper-title" href="https://ieeexplore.ieee.org/abstract/document/11646591">Revisiting Side-Channel Resistance of GCM Implementations on AVR Microcontrollers</a>," Insung Kim, <strong>Hanbeom Shin</strong>, Sunyeop Kim, Seokhie Hong, Geumhwan Cho, HeeSeok Kim, Donggeun Kwon, <em>IEEE Access</em>, 2026.</li>
 <li value="9">"<a class="paper-title" href="https://tches.iacr.org/index.php/TCHES/article/view/13101">MIFA: An MILP-based Framework for Improving Differential Fault Attacks</a>," <strong>Hanbeom Shin</strong>, Insung Kim, Sunyeop Kim, Byoungjin Seok, Deukjo Hong, Jaechul Sung, Seokhie Hong, Sangjin Lee, Dongjae Lee, <em class="venue">IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES) / CHES 2026</em>, 2026.</li>
@@ -78,19 +82,18 @@ I am a Ph.D. Candidate in the **Cryptographic Algorithm Lab** at **Korea Univers
 #### 2026
 
 <ol>
-<li value="8">"<a class="paper-title" href="https://eprint.iacr.org/2026/1450">Optimizing Polynomial Multiplication and Fixed-Weight Sampling for HQC on ARM Cortex-M4</a>," Jihoon Jang, <strong>Hanbeom Shin</strong>, Suhri Kim, Seokhie Hong, Donggeun Kwon, <em>Cryptology ePrint Archive</em>, 2026.</li>
-<li value="7">"<a class="paper-title" href="https://eprint.iacr.org/2026/1286">Multiple-of Property for Related-Differential Distinguishers on 5-Round AES</a>," <strong>Hanbeom Shin</strong>, Donggeun Kwon, Byoungjin Seok, Deukjo Hong, Jaechul Sung, Seokhie Hong, Dongjae Lee, <em>Cryptology ePrint Archive</em>, 2026.</li>
-<li value="6">"<a class="paper-title" href="https://eprint.iacr.org/2026/1136">Local Constraints Behind Fourier Analysis of Neural Distinguishers for SPECK32/64</a>," Yunjae Hwang, Sunyeop Kim, <strong>Hanbeom Shin</strong>, Deukjo Hong, Seokhie Hong, Dongjae Lee, Jaechul Sung, Byoungjin Seok, <em>Cryptology ePrint Archive</em>, 2026.</li>
-<li value="5">"<a class="paper-title" href="https://eprint.iacr.org/2026/980">Key-Independent Secret-Key Distinguisher for 7-Round AES based on the Joint Generalized Zero-Difference Property</a>," <strong>Hanbeom Shin</strong>, Sunyeop Kim, Byoungjin Seok, Deukjo Hong, Jaechul Sung, Seokhie Hong, Sangjin Lee, Dongjae Lee, <em>Cryptology ePrint Archive</em>, 2026.</li>
-<li value="4">"<a class="paper-title" href="https://eprint.iacr.org/2026/826">Efficient Implementation of ARIA on ARMv8 via Cryptographic Extensions</a>," Myoungsu Shin, <strong>Hanbeom Shin</strong>, Insung Kim, Dongjae Lee, <em>Cryptology ePrint Archive</em>, 2026.</li>
-<li value="3">"<a class="paper-title" href="https://eprint.iacr.org/2026/340">Improving Neural-Inspired Integral Distinguishers via a Linear-Algebraic Approach</a>," Yunjae Hwang, Insung Kim, Sunyeop Kim, Myungkyu Lee, <strong>Hanbeom Shin</strong>, Deukjo Hong, Seokhie Hong, Dongjae Lee, Jaechul Sung, Byoungjin Seok, <em>Cryptology ePrint Archive</em>, 2026.</li>
+<li value="7">"<a class="paper-title" href="https://eprint.iacr.org/2026/1450">Optimizing Polynomial Multiplication and Fixed-Weight Sampling for HQC on ARM Cortex-M4</a>," Jihoon Jang, <strong>Hanbeom Shin</strong>, Suhri Kim, Seokhie Hong, Donggeun Kwon, <em>Cryptology ePrint Archive</em>, 2026.</li>
+<li value="6">"<a class="paper-title" href="https://eprint.iacr.org/2026/1286">Multiple-of Property for Related-Differential Distinguishers on 5-Round AES</a>," <strong>Hanbeom Shin</strong>, Donggeun Kwon, Byoungjin Seok, Deukjo Hong, Jaechul Sung, Seokhie Hong, Dongjae Lee, <em>Cryptology ePrint Archive</em>, 2026.</li>
+<li value="5">"<a class="paper-title" href="https://eprint.iacr.org/2026/1136">Local Constraints Behind Fourier Analysis of Neural Distinguishers for SPECK32/64</a>," Yunjae Hwang, Sunyeop Kim, <strong>Hanbeom Shin</strong>, Deukjo Hong, Seokhie Hong, Dongjae Lee, Jaechul Sung, Byoungjin Seok, <em>Cryptology ePrint Archive</em>, 2026.</li>
+<li value="4">"<a class="paper-title" href="https://eprint.iacr.org/2026/980">Key-Independent Secret-Key Distinguisher for 7-Round AES based on the Joint Generalized Zero-Difference Property</a>," <strong>Hanbeom Shin</strong>, Sunyeop Kim, Byoungjin Seok, Deukjo Hong, Jaechul Sung, Seokhie Hong, Sangjin Lee, Dongjae Lee, <em>Cryptology ePrint Archive</em>, 2026.</li>
+<li value="3">"<a class="paper-title" href="https://eprint.iacr.org/2026/826">Efficient Implementation of ARIA on ARMv8 via Cryptographic Extensions</a>," Myoungsu Shin, <strong>Hanbeom Shin</strong>, Insung Kim, Dongjae Lee, <em>Cryptology ePrint Archive</em>, 2026.</li>
+<li value="2">"<a class="paper-title" href="https://eprint.iacr.org/2026/340">Improving Neural-Inspired Integral Distinguishers via a Linear-Algebraic Approach</a>," Yunjae Hwang, Insung Kim, Sunyeop Kim, Myungkyu Lee, <strong>Hanbeom Shin</strong>, Deukjo Hong, Seokhie Hong, Dongjae Lee, Jaechul Sung, Byoungjin Seok, <em>Cryptology ePrint Archive</em>, 2026.</li>
 </ol>
 
 #### 2025
 
 <ol>
-<li value="2">"<a class="paper-title" href="https://eprint.iacr.org/2025/837">Towards Optimal Differential Attacks on FLY and PIPO</a>," Insung Kim, Seonggyeom Kim, Sunyeop Kim, Donggeun Kwon, <strong>Hanbeom Shin</strong>, Dongjae Lee, Deukjo Hong, Jaechul Sung, Seokhie Hong, <em>Cryptology ePrint Archive</em>, 2025.</li>
-<li value="1">"<a class="paper-title" href="https://eprint.iacr.org/2025/248">New Exchanged Boomerang Distinguishers for 5-Round AES</a>," <strong>Hanbeom Shin</strong>, Seonkyu Kim, Byoungjin Seok, Dongjae Lee, Deukjo Hong, Jaechul Sung, Seokhie Hong, <em>Cryptology ePrint Archive</em>, 2025.</li>
+<li value="1">"<a class="paper-title" href="https://eprint.iacr.org/2025/837">Towards Optimal Differential Attacks on FLY and PIPO</a>," Insung Kim, Seonggyeom Kim, Sunyeop Kim, Donggeun Kwon, <strong>Hanbeom Shin</strong>, Dongjae Lee, Deukjo Hong, Jaechul Sung, Seokhie Hong, <em>Cryptology ePrint Archive</em>, 2025.</li>
 </ol>
 
 # 👨‍🏫 Teaching
