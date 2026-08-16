@@ -21,6 +21,7 @@ I am a Ph.D. Candidate in the **Cryptographic Algorithm Lab** at **Korea Univers
 
 
 # 🔥 News
+- *2026.08*: &nbsp;🎉 Our paper, "Key-Independent Secret-Key Distinguisher for 7-Round AES based on the Joint Generalized Zero-Difference Property," has been accepted to *ASIACRYPT 2026*.
 - *2026.08*: &nbsp;🎉 Our paper, "New Exchanged Boomerang Distinguishers for 5-Round AES," has been accepted to *CANS 2026*.
 - *2026.08*: &nbsp;🎉 Our paper, "Classical-Channel-Free Quantum Trust Data Distribution," has been accepted to *MILCOM 2026*.
 - *2026.08*: &nbsp;🎉 Our paper, "Revisiting Side-Channel Resistance of GCM Implementations on AVR Microcontrollers," has been published in *IEEE Access*.
