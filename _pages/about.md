@@ -21,6 +21,7 @@ I am a Ph.D. Candidate in the **Cryptographic Algorithm Lab** at **Korea Univers
 
 
 # 🔥 News
+- *2026.09*: &nbsp;🎉 Our paper, "Optimizing Polynomial Multiplication and Fixed-Weight Sampling for HQC on ARM Cortex-M4," has been accepted to *CHES 2027*.
 - *2026.08*: &nbsp;🎉 Our paper, "Key-Independent Secret-Key Distinguisher for 7-Round AES based on the Joint Generalized Zero-Difference Property," has been accepted to *ASIACRYPT 2026*.
 - *2026.08*: &nbsp;🎉 Our paper, "New Exchanged Boomerang Distinguishers for 5-Round AES," has been accepted to *CANS 2026*.
 - *2026.08*: &nbsp;🎉 Our paper, "Classical-Channel-Free Quantum Trust Data Distribution," has been accepted to *MILCOM 2026*.
@@ -49,6 +50,12 @@ I am a Ph.D. Candidate in the **Cryptographic Algorithm Lab** at **Korea Univers
 - *2023.07 - 2023.08*, Intern, Samsung SDS.
 
 # 📝 Publications
+
+#### 2027
+
+<ol>
+<li value="15">"<a class="paper-title" href="https://eprint.iacr.org/2026/1450">Optimizing Polynomial Multiplication and Fixed-Weight Sampling for HQC on ARM Cortex-M4</a>," Jihoon Jang, <strong>Hanbeom Shin</strong>, Suhri Kim, Seokhie Hong, Donggeun Kwon, <em class="venue">IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES) / CHES 2027</em>, 2027. (To appear)</li>
+</ol>
 
 #### 2026
 
@@ -84,7 +91,6 @@ I am a Ph.D. Candidate in the **Cryptographic Algorithm Lab** at **Korea Univers
 #### 2026
 
 <ol>
-<li value="6">"<a class="paper-title" href="https://eprint.iacr.org/2026/1450">Optimizing Polynomial Multiplication and Fixed-Weight Sampling for HQC on ARM Cortex-M4</a>," Jihoon Jang, <strong>Hanbeom Shin</strong>, Suhri Kim, Seokhie Hong, Donggeun Kwon, <em>Cryptology ePrint Archive</em>, 2026.</li>
 <li value="5">"<a class="paper-title" href="https://eprint.iacr.org/2026/1286">Multiple-of Property for Related-Differential Distinguishers on 5-Round AES</a>," <strong>Hanbeom Shin</strong>, Donggeun Kwon, Byoungjin Seok, Deukjo Hong, Jaechul Sung, Seokhie Hong, Dongjae Lee, <em>Cryptology ePrint Archive</em>, 2026.</li>
 <li value="4">"<a class="paper-title" href="https://eprint.iacr.org/2026/1136">Local Constraints Behind Fourier Analysis of Neural Distinguishers for SPECK32/64</a>," Yunjae Hwang, Sunyeop Kim, <strong>Hanbeom Shin</strong>, Deukjo Hong, Seokhie Hong, Dongjae Lee, Jaechul Sung, Byoungjin Seok, <em>Cryptology ePrint Archive</em>, 2026.</li>
 <li value="3">"<a class="paper-title" href="https://eprint.iacr.org/2026/826">Efficient Implementation of ARIA on ARMv8 via Cryptographic Extensions</a>," Myoungsu Shin, <strong>Hanbeom Shin</strong>, Insung Kim, Dongjae Lee, <em>Cryptology ePrint Archive</em>, 2026.</li>
