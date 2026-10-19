@@ -89,6 +89,7 @@ I am a Ph.D. Candidate in the **Cryptographic Algorithm Lab** at **Korea Univers
 #### 2026
 
 <ol>
+<li value="6">"<a class="paper-title" href="https://eprint.iacr.org/2026/2410">KIFA: Kernel-based Integral Fault Analysis on GIFT-Family Ciphers</a>," <strong>Hanbeom Shin</strong>, Yunjae Hwang, Donggeun Kwon, Byoungjin Seok, Deukjo Hong, Jaechul Sung, Seokhie Hong, Dongjae Lee, <em>Cryptology ePrint Archive</em>, 2026.</li>
 <li value="5">"<a class="paper-title" href="https://eprint.iacr.org/2026/1286">Multiple-of Property for Related-Differential Distinguishers on 5-Round AES</a>," <strong>Hanbeom Shin</strong>, Donggeun Kwon, Byoungjin Seok, Deukjo Hong, Jaechul Sung, Seokhie Hong, Dongjae Lee, <em>Cryptology ePrint Archive</em>, 2026.</li>
 <li value="4">"<a class="paper-title" href="https://eprint.iacr.org/2026/1136">Local Constraints Behind Fourier Analysis of Neural Distinguishers for SPECK32/64</a>," Yunjae Hwang, Sunyeop Kim, <strong>Hanbeom Shin</strong>, Deukjo Hong, Seokhie Hong, Dongjae Lee, Jaechul Sung, Byoungjin Seok, <em>Cryptology ePrint Archive</em>, 2026.</li>
 <li value="3">"<a class="paper-title" href="https://eprint.iacr.org/2026/826">Efficient Implementation of ARIA on ARMv8 via Cryptographic Extensions</a>," Myoungsu Shin, <strong>Hanbeom Shin</strong>, Insung Kim, Dongjae Lee, <em>Cryptology ePrint Archive</em>, 2026.</li>
