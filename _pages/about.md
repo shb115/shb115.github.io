@@ -21,13 +21,13 @@ I am a Ph.D. Candidate in the **Cryptographic Algorithm Lab** at **Korea Univers
 
 
 # 🔥 News
-- *2026.09*: &nbsp;🎉 Our paper, "Optimizing Polynomial Multiplication and Fixed-Weight Sampling for HQC on ARM Cortex-M4," has been accepted to *CHES 2027*.
-- *2026.08*: &nbsp;🎉 Our paper, "Key-Independent Secret-Key Distinguisher for 7-Round AES based on the Joint Generalized Zero-Difference Property," has been accepted to *ASIACRYPT 2026*.
+- *2026.09*: &nbsp;🎉 Our paper, "Optimizing Polynomial Multiplication and Fixed-Weight Sampling for HQC on ARM Cortex-M4," has been accepted to <em class="venue">CHES 2027</em>.
+- *2026.08*: &nbsp;🎉 Our paper, "Key-Independent Secret-Key Distinguisher for 7-Round AES based on the Joint Generalized Zero-Difference Property," has been accepted to <em class="venue-asiacrypt">ASIACRYPT 2026</em>.
 - *2026.08*: &nbsp;🎉 Our paper, "New Exchanged Boomerang Distinguishers for 5-Round AES," has been accepted to *CANS 2026*.
 - *2026.08*: &nbsp;🎉 Our paper, "Classical-Channel-Free Quantum Trust Data Distribution," has been accepted to *MILCOM 2026*.
 - *2026.08*: &nbsp;🎉 Our paper, "Revisiting Side-Channel Resistance of GCM Implementations on AVR Microcontrollers," has been published in *IEEE Access*.
 - *2026.03*: &nbsp;🎉 Our paper, "SDDT: An Operation Skip Attack Framework for Bitslice Ciphers—Validated on PIPO," has been accepted to *SAC 2026*.
-- *2026.03*: &nbsp;🎉 Our paper, "MIFA: An MILP-based Framework for Improving Differential Fault Attacks," has been accepted to *CHES 2026*.
+- *2026.03*: &nbsp;🎉 Our paper, "MIFA: An MILP-based Framework for Improving Differential Fault Attacks," has been accepted to <em class="venue">CHES 2026</em>.
 - *2026.01*: &nbsp;🎉 Our paper, "Quantum trust data distribution: a stabilizer-based protocol for continuous and direct secure communication," has been published in *Quantum Information Processing*.
 
 # 🔍 Research Interests
