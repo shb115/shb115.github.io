@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. Candidate in the **Cryptographic Algorithm Lab** at **Korea University**. My research focuses on the security of **symmetric-key cryptography**, spanning both cryptanalysis and physical attacks. I am also interested in **pseudorandom functions (PRFs)** and **post-quantum cryptography (PQC)**.
+I am a Ph.D. Candidate in the **Cryptographic Algorithm Lab** at **Korea University**. My research interests include symmetric-key cryptography, side-channel attacks, post-quantum cryptography (PQC), and pseudorandom functions (PRFs).
 
 
 # 🔥 News
