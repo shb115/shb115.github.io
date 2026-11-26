@@ -59,7 +59,7 @@ I am a Ph.D. Candidate in the **Cryptographic Algorithm Lab** at **Korea Univers
 <li value="16">"Key-Independent Secret-Key Distinguisher for 7-Round AES based on the Joint Generalized Zero-Difference Property," <strong>Hanbeom Shin</strong>, Sunyeop Kim, Byoungjin Seok, Deukjo Hong, Jaechul Sung, Seokhie Hong, Sangjin Lee, Dongjae Lee, <em class="venue-asiacrypt">ASIACRYPT 2026</em>, 2026. (To appear) <a href="https://eprint.iacr.org/2026/980">[Paper]</a></li>
 <li value="15">"Practical Key Recovery on the Shadow Lightweight Block Cipher with Non-Profiling Correlation Power Analysis," <strong>Hanbeom Shin</strong>, Insung Kim, Sunyeop Kim, Jihoon Jang, Myoungsu Shin, Donggeun Kwon, <em>Scientific Reports</em>, 2026. (To appear)</li>
 <li value="14">"Improved Differential Attacks on FLY and PIPO," Insung Kim, Seonggyeom Kim, Sunyeop Kim, Donggeun Kwon, <strong>Hanbeom Shin</strong>, Dongjae Lee, Deukjo Hong, Jaechul Sung, Seokhie Hong, <em>Designs, Codes and Cryptography</em>, 2026. (To appear) <a href="https://eprint.iacr.org/2025/837">[Paper]</a></li>
-<li value="13">"New Exchanged Boomerang Distinguishers for 5-Round AES," <strong>Hanbeom Shin</strong>, Seonkyu Kim, Byoungjin Seok, Dongjae Lee, Deukjo Hong, Jaechul Sung, Seokhie Hong, <em>Cryptology and Network Security (CANS) 2026</em>, 2026. (To appear) <a href="https://eprint.iacr.org/2025/248">[Paper]</a></li>
+<li value="13">"New Exchanged Boomerang Distinguishers for 5-Round AES," <strong>Hanbeom Shin</strong>, Seonkyu Kim, Byoungjin Seok, Dongjae Lee, Deukjo Hong, Jaechul Sung, Seokhie Hong, <em>Cryptology and Network Security (CANS) 2026</em>, 2026. <a href="https://eprint.iacr.org/2025/248">[Paper]</a></li>
 <li value="12">"Classical-Channel-Free Quantum Trust Data Distribution," Donggun Lee, <strong>Hanbeom Shin</strong>, Seokhie Hong, Jun Heo, <em>IEEE Military Communications Conference (MILCOM) 2026</em>, 2026.</li>
 <li value="11">"SDDT: An Operation Skip Attack Framework for Bitslice Ciphers—Validated on PIPO," Dongwoo Kang, <strong>Hanbeom Shin</strong>, DongHyeon Kim, Seokhie Hong, HeeSeok Kim, <em>Selected Areas in Cryptography (SAC) 2026</em>, 2026. <a href="https://eprint.iacr.org/2026/1368">[Paper]</a></li>
 <li value="10">"Revisiting Side-Channel Resistance of GCM Implementations on AVR Microcontrollers," Insung Kim, <strong>Hanbeom Shin</strong>, Sunyeop Kim, Seokhie Hong, Geumhwan Cho, HeeSeok Kim, Donggeun Kwon, <em>IEEE Access</em>, 2026. <a href="https://ieeexplore.ieee.org/abstract/document/11646591">[Paper]</a></li>
@@ -100,6 +100,7 @@ I am a Ph.D. Candidate in the **Cryptographic Algorithm Lab** at **Korea Univers
 </ol>
 
 # 💬 Talks
+- <strong>New Exchanged Boomerang Distinguishers for 5-Round AES</strong> <a href="/assets/slides/CANS26-ExchangedBoomerang-Slides.pdf">[Slides]</a><br /> <em>CANS 2026</em> - Wollongong, Australia - 24/11/2026
 - <strong>MIFA: An MILP-based Framework for Improving Differential Fault Attacks</strong> <a href="/assets/slides/CHES26-MIFA-Slides.pdf">[Slides]</a><br /> <em class="venue">CHES 2026</em> - Antalya, Türkiye - 13/10/2026
 
 # 👨‍🏫 Teaching
