@@ -21,6 +21,7 @@ I am a Ph.D. Candidate in the **Cryptographic Algorithm Lab** at **Korea Univers
 
 
 # 🔥 News
+- *2026.11*: &nbsp;🎉 Our paper, "Practical Key Recovery on the Shadow Lightweight Block Cipher with Non-Profiling Correlation Power Analysis," has been accepted to *Scientific Reports*.
 - *2026.11*: &nbsp;🎉 Our paper, "Improved Differential Attacks on FLY and PIPO," has been accepted to *Designs, Codes and Cryptography*.
 - *2026.09*: &nbsp;🎉 Our paper, "Optimizing Polynomial Multiplication and Fixed-Weight Sampling for HQC on ARM Cortex-M4," has been accepted to <em class="venue">CHES 2027</em>.
 - *2026.08*: &nbsp;🎉 Our paper, "Key-Independent Secret-Key Distinguisher for 7-Round AES based on the Joint Generalized Zero-Difference Property," has been accepted to <em class="venue-asiacrypt">ASIACRYPT 2026</em>.
@@ -49,13 +50,14 @@ I am a Ph.D. Candidate in the **Cryptographic Algorithm Lab** at **Korea Univers
 #### 2027
 
 <ol>
-<li value="16">"Optimizing Polynomial Multiplication and Fixed-Weight Sampling for HQC on ARM Cortex-M4," Jihoon Jang, <strong>Hanbeom Shin</strong>, Suhri Kim, Seokhie Hong, Donggeun Kwon, <em class="venue">IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES) / CHES 2027</em>, 2027. (To appear) <a href="https://eprint.iacr.org/2026/1450">[Paper]</a></li>
+<li value="17">"Optimizing Polynomial Multiplication and Fixed-Weight Sampling for HQC on ARM Cortex-M4," Jihoon Jang, <strong>Hanbeom Shin</strong>, Suhri Kim, Seokhie Hong, Donggeun Kwon, <em class="venue">IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES) / CHES 2027</em>, 2027. (To appear) <a href="https://eprint.iacr.org/2026/1450">[Paper]</a></li>
 </ol>
 
 #### 2026
 
 <ol>
-<li value="15">"Key-Independent Secret-Key Distinguisher for 7-Round AES based on the Joint Generalized Zero-Difference Property," <strong>Hanbeom Shin</strong>, Sunyeop Kim, Byoungjin Seok, Deukjo Hong, Jaechul Sung, Seokhie Hong, Sangjin Lee, Dongjae Lee, <em class="venue-asiacrypt">ASIACRYPT 2026</em>, 2026. (To appear) <a href="https://eprint.iacr.org/2026/980">[Paper]</a></li>
+<li value="16">"Key-Independent Secret-Key Distinguisher for 7-Round AES based on the Joint Generalized Zero-Difference Property," <strong>Hanbeom Shin</strong>, Sunyeop Kim, Byoungjin Seok, Deukjo Hong, Jaechul Sung, Seokhie Hong, Sangjin Lee, Dongjae Lee, <em class="venue-asiacrypt">ASIACRYPT 2026</em>, 2026. (To appear) <a href="https://eprint.iacr.org/2026/980">[Paper]</a></li>
+<li value="15">"Practical Key Recovery on the Shadow Lightweight Block Cipher with Non-Profiling Correlation Power Analysis," <strong>Hanbeom Shin</strong>, Insung Kim, Sunyeop Kim, Jihoon Jang, Myoungsu Shin, Donggeun Kwon, <em>Scientific Reports</em>, 2026. (To appear)</li>
 <li value="14">"Improved Differential Attacks on FLY and PIPO," Insung Kim, Seonggyeom Kim, Sunyeop Kim, Donggeun Kwon, <strong>Hanbeom Shin</strong>, Dongjae Lee, Deukjo Hong, Jaechul Sung, Seokhie Hong, <em>Designs, Codes and Cryptography</em>, 2026. (To appear) <a href="https://eprint.iacr.org/2025/837">[Paper]</a></li>
 <li value="13">"New Exchanged Boomerang Distinguishers for 5-Round AES," <strong>Hanbeom Shin</strong>, Seonkyu Kim, Byoungjin Seok, Dongjae Lee, Deukjo Hong, Jaechul Sung, Seokhie Hong, <em>Cryptology and Network Security (CANS) 2026</em>, 2026. (To appear) <a href="https://eprint.iacr.org/2025/248">[Paper]</a></li>
 <li value="12">"Classical-Channel-Free Quantum Trust Data Distribution," Donggun Lee, <strong>Hanbeom Shin</strong>, Seokhie Hong, Jun Heo, <em>IEEE Military Communications Conference (MILCOM) 2026</em>, 2026.</li>
